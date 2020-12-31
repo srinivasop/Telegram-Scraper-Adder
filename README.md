@@ -15,7 +15,7 @@
   Telegram Scraper Adder
 </p>
 <p align="center">
-  wtf, atlest just fuking ⭐ star ⭐ it
+  Star this repo pls forked by = srinivasop 
 </p>
 
 ---
